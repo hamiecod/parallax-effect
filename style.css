@@ -23,7 +23,7 @@ body{
     position: absolute;
     background-size: cover;
     object-fit: cover;
-    height: 100vh;
+    height: 107.5vh;
 }
 .container .main-title{
     position: absolute;
@@ -39,6 +39,7 @@ body{
     background: #323232;
     min-height: 100vh;
     z-index: 2;
+    position: absolute;
 }
 .content img{
     width: 25.4375rem;
